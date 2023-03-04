@@ -1,4 +1,5 @@
  Sentiment Analysis on Indonesian Insurance-Related Tweets
+ 
 This is one of my Projects in PFI mega life, This is a Jupyter notebook created on Colab that demonstrates sentiment analysis on tweets related to Indonesian insurance. The notebook shows how to collect tweets using snscrape, preprocess text data, tokenize tweets, and remove stop words.
 
 Data Collection
